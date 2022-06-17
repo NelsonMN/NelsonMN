@@ -1,4 +1,4 @@
-### Hi there 👋🏻, thanks for taking a look at my profile!
+# Hi there 👋🏻, thanks for taking a look at my profile!
 
 🔭 I’m currently working on a React Shopping Cart App!
 
@@ -51,6 +51,15 @@
   </tr>
   <tr>
     <td align="center" height="108" width="108">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/python/python-original.svg"
+          width="48"
+          height="48"
+          alt="Python"
+        />
+        <br /><strong>Python</strong>
+      </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -81,4 +90,4 @@
 </table>
 
 
-## Take a look at some of my favourite projects I've worked on below 👇🏻
+# Take a look at some of my favourite projects I've worked on below 👇🏻
