@@ -92,4 +92,4 @@
 
 <br />
 
-# Take a look at some of my favourite projects I've worked on below 
+# Take a look at some of my favourite projects I've worked on below!
