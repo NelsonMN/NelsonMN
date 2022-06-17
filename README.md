@@ -7,7 +7,7 @@
 📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
 
 
-# 🔧 Technologies & Tools
+# Technologies & Tools
 
 <table>
   <tr>
@@ -90,4 +90,4 @@
 </table>
 
 
-# Take a look at some of my favourite projects I've worked on below 👇🏻
+# Take a look at some of my favourite projects I've worked on below 
