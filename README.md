@@ -52,7 +52,7 @@
   <tr>
     <td align="center" height="108" width="108">
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/python/python-original.svg"
+          src=["https://cdn.jsdelivr.net/gh/devicons/devicon/python/python-original.svg"]
           width="48"
           height="48"
           alt="Python"
