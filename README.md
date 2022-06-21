@@ -48,6 +48,14 @@
       />
       <br /><strong>React</strong>
     </td>
+    <td align="center" height="108" width="108">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+      width="48"
+      height="48"
+      alt="Webpack"
+    />
+    <br /><strong>Webpack</strong>
     </td>
   </tr>
   <tr>
@@ -86,6 +94,15 @@
         alt="Jest"
       />
       <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
     </td>
   </tr>
 </table>
