@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a React Shopping Cart App!
 
-🌱 I’m currently learning React Testing with Jest!
+🌱 I’m currently learning how to configure Firebase 
 
 📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
 
