@@ -1,4 +1,4 @@
-# Hi there 👋🏻, thanks for taking a look at my profile!
+# Hi there 👋🏻,
 
 🔭 I’m currently working on a React Shopping Cart App!
 
