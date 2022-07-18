@@ -1,8 +1,8 @@
 # Hi there 👋🏻,
 
-🔭 I’m currently working on a React Shopping Cart App!
+🔭 I’m currently working on a React Chat-App!
 
-🌱 I’m currently learning how to configure Firebase 
+🌱 I’m currently learning back-end development!
 
 📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
 
