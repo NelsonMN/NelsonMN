@@ -1,6 +1,6 @@
 # Hi there 👋🏻,
 
-🔭 I’m currently deepning my understanding of React
+🔭 I’m currently deepening my understanding of React
 
 🌱 I’m currently working through a React course
 
