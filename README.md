@@ -1,8 +1,8 @@
 # Hi there 👋🏻,
 
-🔭 I’m currently working on a React Chat-App!
+🔭 I’m currently deepning my understanding of React
 
-🌱 I’m currently learning back-end development!
+🌱 I’m currently working through a React course
 
 📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
 
