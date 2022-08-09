@@ -2,7 +2,7 @@
 
 🔭 I’m currently deepening my understanding of React
 
-🌱 I’m currently working through a React course
+🌱 I’m currently working on a Photo Tagging App
 
 📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
 
