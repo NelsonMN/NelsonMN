@@ -1,8 +1,8 @@
 # Hi there 👋🏻,
 
-🔭 I’m currently deepening my understanding of React
+🔭 I’m currently learning TypeScript and Redux
 
-🌱 I’m currently working on a Photo Tagging App
+🌱 I’m working on a Support Ticketing System
 
 📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
 
