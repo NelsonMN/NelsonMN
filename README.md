@@ -4,8 +4,6 @@
 
 🌱 I’m working on a Support Ticketing System
 
-<br />
-
 # Technologies & Tools
 
 <table>
