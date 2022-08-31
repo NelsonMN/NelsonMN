@@ -4,8 +4,6 @@
 
 🌱 I’m working on a Support Ticketing System
 
-📫 Reach out and connect with me on LinkedIn: https://www.linkedin.com/in/nelsonmieszkalski/
-
 <br />
 
 # Technologies & Tools
