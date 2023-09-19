@@ -1,9 +1,5 @@
 # Hi there 👋🏻,
 
-🔭 I’m currently learning TypeScript and Redux
-
-🌱 I’m working on a Support Ticketing System
-
 # Technologies & Tools
 
 <table>
